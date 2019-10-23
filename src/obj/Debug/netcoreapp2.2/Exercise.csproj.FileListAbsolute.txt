@@ -1,0 +1,14 @@
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/bin/Debug/netcoreapp2.2/Exercise.deps.json
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/bin/Debug/netcoreapp2.2/Exercise.runtimeconfig.json
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/bin/Debug/netcoreapp2.2/Exercise.runtimeconfig.dev.json
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/bin/Debug/netcoreapp2.2/Exercise.dll
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/bin/Debug/netcoreapp2.2/Exercise.pdb
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.csprojAssemblyReference.cache
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.csproj.CoreCompileInputs.cache
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.RazorAssemblyInfo.cache
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.RazorAssemblyInfo.cs
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.AssemblyInfoInputs.cache
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.AssemblyInfo.cs
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.RazorTargetAssemblyInfo.cache
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.dll
+/Users/azadeh.hassanzadeh/Projects/Exercise/src/obj/Debug/netcoreapp2.2/Exercise.pdb
